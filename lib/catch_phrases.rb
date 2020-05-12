@@ -13,3 +13,10 @@ def link
   link_phrase = "It's Dangerous To Go Alone! Take This."
   puts link_phrase
 end
+
+def all_phrases
+  puts phrase
+  puts toadstool
+  puts link_phrase
+  
+end
